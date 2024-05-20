@@ -1,0 +1,1 @@
+-I"D:/mylinux/diy-x86os-master-20230506/start/start/source" -I"D:/mylinux/diy-x86os-master-20230506/start/start/source/kernel/include" -I"D:/mylinux/diy-x86os-master-20230506/start/start/../newlib/i686-elf/include" -I"D:/mylinux/diy-x86os-master-20230506/start/start/source/shell/../applib"
